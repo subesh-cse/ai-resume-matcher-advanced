@@ -1,5 +1,11 @@
 # 🚀 AI Resume Matcher (Advanced)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Machine Learning](https://img.shields.io/badge/ML-Hybrid%20Scoring-green)
+![NLP](https://img.shields.io/badge/NLP-Semantic%20Matching-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 An intelligent AI-powered system that analyzes resumes against job descriptions using **hybrid scoring, section-based parsing, and semantic matching**.
 
 ---
