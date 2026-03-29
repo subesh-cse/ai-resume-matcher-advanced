@@ -1,68 +1,75 @@
 # 🚀 AI Resume Matcher (Advanced)
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
-![Machine Learning](https://img.shields.io/badge/ML-Hybrid%20Scoring-green)
+[![Live App](https://img.shields.io/badge/Live-App-brightgreen)](https://ai-resume-matcher-advanced-vbmj5aoxivw4kv83rnxv7.streamlit.app)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![ML](https://img.shields.io/badge/ML-Hybrid%20Scoring-yellowgreen)
 ![NLP](https://img.shields.io/badge/NLP-Semantic%20Matching-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+---
+
+## 🚀 Live Demo
+👉 https://ai-resume-matcher-advanced-vbmj5aoxivw4kv83rnxv7.streamlit.app
+
+---
+
+## 🧠 Overview
 
 An intelligent AI-powered system that analyzes resumes against job descriptions using **hybrid scoring, section-based parsing, and semantic matching**.
+
+Unlike traditional keyword matchers, this system combines **NLP + structured understanding** to produce more reliable and meaningful results.
 
 ---
 
 ## 🔥 Key Features
 
-* 📄 **Resume Parsing (PDF + OCR support)**
-* 🧠 **Section-Based Analysis**
-
-  * Skills
-  * Experience
-  * Projects
-* ⚡ **Hybrid Scoring System**
-
-  * Keyword Matching
-  * Semantic Similarity
-* 🤖 **NLP-powered Matching**
-* 📊 **Final Match Score with Insights**
-* ❗ **Missing Skills Detection**
-* 🎯 Clean and Interactive **Streamlit UI**
+- 📄 Resume Parsing (PDF + OCR support)
+- 🧠 Section-Based Analysis
+  - Skills
+  - Experience
+  - Projects
+- ⚡ Hybrid Scoring System
+  - Keyword Matching
+  - Semantic Similarity (Sentence Transformers)
+- 🤖 NLP-powered Matching
+- 📊 Final Match Score with Explanation
+- ❗ Missing Skills Detection
+- 🎯 Recruiter + Candidate Modes
 
 ---
 
-## 🧠 How It Works
+## ⚙️ How It Works
 
-1. Extract text from resume (PDF / OCR fallback)
-2. Clean and preprocess text
+1. Extract text from resume (PDF / OCR fallback)  
+2. Clean and preprocess text  
 3. Extract structured sections:
-
-   * Skills
-   * Experience
-   * Projects
+   - Skills
+   - Experience
+   - Projects  
 4. Compare with Job Description using:
-
-   * Keyword overlap
-   * Semantic similarity (Sentence Transformers)
+   - Keyword overlap  
+   - Semantic similarity  
 5. Generate:
-
-   * Final Score
-   * Match Summary
-   * Missing Skills
+   - Final Score  
+   - Match Summary  
+   - Missing Skills  
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Python
-* Streamlit
-* Scikit-learn
-* Sentence Transformers
-* Pandas, NumPy
-* PDFPlumber
-* PyTesseract (OCR)
+- Python  
+- Streamlit  
+- Scikit-learn  
+- Sentence Transformers  
+- Pandas, NumPy  
+- PDFPlumber  
+- PyTesseract (OCR)  
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```
 ai-resume-matcher-advanced/
@@ -86,36 +93,42 @@ ai-resume-matcher-advanced/
 ## 🚀 Run Locally
 
 ```bash
-git clone (https://github.com/subesh-cse/ai-resume-matcher-advanced.git)
+git clone https://github.com/subesh-cse/ai-resume-matcher-advanced.git
 cd ai-resume-matcher-advanced
 
 pip install -r requirements.txt
 streamlit run app.py
-
-
-
-## 🔥 Future Improvements
-
-* Deep Learning-based scoring
-* Fine-tuned embeddings for hiring
-* ATS-style ranking system
-* Multi-resume comparison
-* Deploy with API backend
+```
 
 ---
 
 ## 💡 Why This Project?
 
-Most resume matchers rely only on keyword matching (fragile).
+Most resume matchers rely only on **keyword matching (fragile)**.
+
 This system improves accuracy using:
 
-* Section-aware parsing
-* Hybrid scoring
-* Semantic understanding
+- Section-aware parsing  
+- Hybrid scoring  
+- Semantic understanding  
+
+---
+
+## 🔮 Future Improvements
+
+- Deep Learning-based scoring  
+- Fine-tuned embeddings for hiring  
+- ATS-style ranking system  
+- Multi-resume comparison  
+- Backend API deployment  
 
 ---
 
 ## 👨‍💻 Author
 
-**Subesh**
-Machine Learning Enthusiast | Building real-world AI systems 🚀
+**Subesh**  
+Aspiring ML Engineer | Building real-world AI systems 🚀  
+
+---
+
+⭐ If you found this useful, consider giving it a star!
