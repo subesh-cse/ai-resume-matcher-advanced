@@ -1,16 +1,15 @@
 # 🚀 AI Resume Matcher (Advanced)
 
-[![Live App](https://img.shields.io/badge/Live-App-brightgreen)](https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![ML](https://img.shields.io/badge/ML-Hybrid%20Scoring-yellowgreen)
-![NLP](https://img.shields.io/badge/NLP-Semantic%20Matching-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen?style=for-the-badge)](https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)]
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge)]
+[![ML](https://img.shields.io/badge/Machine%20Learning-Enabled-orange?style=for-the-badge)]
 
 ---
 
 ## 🚀 Live Demo
-👉 https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/
+
+👉 **[Try the Live App](https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/)**
 
 ---
 
@@ -19,6 +18,8 @@
 An intelligent AI-powered system that analyzes resumes against job descriptions using **hybrid scoring, section-based parsing, and semantic matching**.
 
 Unlike traditional keyword matchers, this system combines **NLP + structured understanding** to produce more reliable and meaningful results.
+
+> ⚡ Designed to simulate real-world hiring workflows with explainable AI scoring.
 
 ---
 
@@ -65,7 +66,8 @@ Unlike traditional keyword matchers, this system combines **NLP + structured und
 - Sentence Transformers  
 - Pandas, NumPy  
 - PDFPlumber  
-- PyTesseract (OCR)  
+- EasyOCR
+- PyMuPDF  
 
 ---
 
