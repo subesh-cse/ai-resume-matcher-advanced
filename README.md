@@ -1,6 +1,6 @@
 # 🚀 AI Resume Matcher (Advanced)
 
-[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen?style=for-the-badge)](https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live-App-brightgreen)](https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![ML](https://img.shields.io/badge/ML-Hybrid%20Scoring-yellowgreen)
