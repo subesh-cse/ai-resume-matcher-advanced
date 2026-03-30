@@ -1,10 +1,9 @@
 # 🚀 AI Resume Matcher (Advanced)
 
-![Live App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen?style=for-the-badge)](https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)]
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge)]
-![ML](https://img.shields.io/badge/Machine%20Learning-Enabled-orange?style=for-the-badge)]
-
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-Click%20Here-brightgreen?style=for-the-badge)](https://ai-resume-matcher-advanced-vvbmj5aoxivw4kv83rnxv7.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)]
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge)]
+[![ML](https://img.shields.io/badge/Machine%20Learning-Enabled-orange?style=for-the-badge)]
 ---
 
 ## 🚀 Live Demo
