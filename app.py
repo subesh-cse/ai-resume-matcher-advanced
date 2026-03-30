@@ -141,6 +141,7 @@ with tab1:
 
             if len(resume_text.strip()) < 200:
                 st.warning("Scanned PDF detected → running OCR...")
+                uploaded_file.seek(0)
                 resume_text = read_image_pdf(uploaded_file)
 
             st.success("Resume loaded successfully")
@@ -236,6 +237,7 @@ with tab2:
             resume_text = read_pdf(file)
 
             if len(resume_text.strip()) < 200:
+                file.seek(0)
                 resume_text = read_image_pdf(file)
 
             score, explanation = analyze_resume(resume_text, jd_multi)
