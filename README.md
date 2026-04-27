@@ -59,18 +59,20 @@ An advanced AI-powered system that analyzes resumes against job descriptions usi
 
 ## 📁 Project Structure
 
+```bash
 ai-resume-matcher-advanced/
 │
 ├── app.py
 ├── requirements.txt
 ├── src/
-│ ├── scorer.py
-│ ├── section_extractor.py
-│ ├── semantic_matcher.py
-│ ├── pipeline.py
-│ ├── pdf_reader.py
-│ ├── ocr_reader.py
-│ └── text_cleaning.py
+│   ├── scorer.py
+│   ├── section_extractor.py
+│   ├── semantic_matcher.py
+│   ├── pipeline.py
+│   ├── pdf_reader.py
+│   ├── ocr_reader.py
+│   └── text_cleaning.py
+```
 
 
 ---
