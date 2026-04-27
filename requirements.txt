@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+numpy
+pandas
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+sentence-transformers
+easyocr
+PyMuPDF
+numpy
