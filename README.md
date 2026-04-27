@@ -53,7 +53,7 @@ An advanced AI-powered system that analyzes resumes against job descriptions usi
 
 ## 🌐 Live Demo
 
-👉 [Add your deployed link here]
+👉 https://ai-resume-matcher-advanced-vbmj5aoxivw4kv83rnxv7.streamlit.app
 
 ---
 
